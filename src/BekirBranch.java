@@ -5,5 +5,10 @@ public class BekirBranch {
          System.out.println("Branch1");
          System.out.println("Branch2");
          System.out.println("Branch3");
+        
+        System.out.println("Branch1");
+         System.out.println("Branch2");
+         System.out.println("Branch3");
+        
     }
 }
